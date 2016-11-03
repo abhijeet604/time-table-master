@@ -184,9 +184,11 @@
 					D1B623981BC459AA006E4B0E = {
 						CreatedOnToolsVersion = 7.0;
 						DevelopmentTeam = SSW2MT896X;
+						LastSwiftMigration = 0800;
 					};
 					D1B623AC1BC459AA006E4B0E = {
 						CreatedOnToolsVersion = 7.0;
+						LastSwiftMigration = 0800;
 						TestTargetID = D1B623981BC459AA006E4B0E;
 					};
 				};
@@ -377,6 +379,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = private.TimeTable;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OBJC_BRIDGING_HEADER = "Bridging-Header.h";
+				SWIFT_VERSION = 3.0;
 			};
 			name = Debug;
 		};
@@ -394,6 +397,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = private.TimeTable;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OBJC_BRIDGING_HEADER = "Bridging-Header.h";
+				SWIFT_VERSION = 3.0;
 			};
 			name = Release;
 		};
@@ -405,6 +409,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = PentLab.TimeTableTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/TimeTable.app/TimeTable";
 			};
 			name = Debug;
@@ -417,6 +422,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = PentLab.TimeTableTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/TimeTable.app/TimeTable";
 			};
 			name = Release;
