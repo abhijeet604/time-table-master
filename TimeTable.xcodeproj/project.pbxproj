@@ -188,6 +188,7 @@
 					};
 					D1B623AC1BC459AA006E4B0E = {
 						CreatedOnToolsVersion = 7.0;
+						DevelopmentTeam = SSW2MT896X;
 						LastSwiftMigration = 0800;
 						TestTargetID = D1B623981BC459AA006E4B0E;
 					};
@@ -405,6 +406,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
+				DEVELOPMENT_TEAM = SSW2MT896X;
 				INFOPLIST_FILE = TimeTableTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = PentLab.TimeTableTests;
@@ -418,6 +420,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
+				DEVELOPMENT_TEAM = SSW2MT896X;
 				INFOPLIST_FILE = TimeTableTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = PentLab.TimeTableTests;
