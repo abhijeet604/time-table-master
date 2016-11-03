@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "25194143FAAB29BBF23D74101932EDCFAA4419CD",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "766921D80C5C603F66C016D0D5FF299DAFD1DD6D" : 9223372036854775807,
+    "25194143FAAB29BBF23D74101932EDCFAA4419CD" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "A8CEF5B3-9781-4372-9EA2-5CA39D7080C8",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "766921D80C5C603F66C016D0D5FF299DAFD1DD6D" : "time-table\/TimeTable\/",
+    "25194143FAAB29BBF23D74101932EDCFAA4419CD" : "time-table\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "TimeTable",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "TimeTable.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/abhijeet604\/time-table-master.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "25194143FAAB29BBF23D74101932EDCFAA4419CD"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/abhijeet604\/Timetable.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "766921D80C5C603F66C016D0D5FF299DAFD1DD6D"
+    }
+  ]
+}
