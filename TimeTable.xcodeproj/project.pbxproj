@@ -183,7 +183,7 @@
 				TargetAttributes = {
 					D1B623981BC459AA006E4B0E = {
 						CreatedOnToolsVersion = 7.0;
-						DevelopmentTeam = U7NW2TWB23;
+						DevelopmentTeam = SSW2MT896X;
 						LastSwiftMigration = 0800;
 						ProvisioningStyle = Automatic;
 					};
@@ -301,11 +301,11 @@
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				CODE_SIGN_IDENTITY = "iPhone Developer: developers.mobileapp@sgintl.com (CTG2W49E4L)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: developers.mobileapp@sgintl.com (CTG2W49E4L)";
+				CODE_SIGN_IDENTITY = "iPhone Developer: mobileadmin@sgintl.com (7DZ7KLJ7L3)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: mobileadmin@sgintl.com (7DZ7KLJ7L3)";
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = dwarf;
-				DEVELOPMENT_TEAM = U7NW2TWB23;
+				DEVELOPMENT_TEAM = SSW2MT896X;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
@@ -325,7 +325,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
-				PROVISIONING_PROFILE = "8968a2cc-b684-41ba-8a08-106edd7ec729";
+				PROVISIONING_PROFILE = "";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SDKROOT = iphoneos;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
@@ -350,11 +350,11 @@
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				CODE_SIGN_IDENTITY = "iPhone Developer: developers.mobileapp@sgintl.com (CTG2W49E4L)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: developers.mobileapp@sgintl.com (CTG2W49E4L)";
+				CODE_SIGN_IDENTITY = "iPhone Developer: mobileadmin@sgintl.com (7DZ7KLJ7L3)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: mobileadmin@sgintl.com (7DZ7KLJ7L3)";
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
-				DEVELOPMENT_TEAM = U7NW2TWB23;
+				DEVELOPMENT_TEAM = SSW2MT896X;
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
@@ -367,7 +367,7 @@
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
-				PROVISIONING_PROFILE = "8968a2cc-b684-41ba-8a08-106edd7ec729";
+				PROVISIONING_PROFILE = "";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -379,8 +379,8 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_IDENTITY = "iPhone Developer: developers.mobileapp@sgintl.com (CTG2W49E4L)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: developers.mobileapp@sgintl.com (CTG2W49E4L)";
+				CODE_SIGN_IDENTITY = "iPhone Developer: mobileadmin@sgintl.com (7DZ7KLJ7L3)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: mobileadmin@sgintl.com (7DZ7KLJ7L3)";
 				DEVELOPMENT_TEAM = SSW2MT896X;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
@@ -390,7 +390,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.demo.audi;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "8968a2cc-b684-41ba-8a08-106edd7ec729";
+				PROVISIONING_PROFILE = "";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_OBJC_BRIDGING_HEADER = "Bridging-Header.h";
 				SWIFT_VERSION = 3.0;
@@ -401,8 +401,8 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_IDENTITY = "iPhone Developer: developers.mobileapp@sgintl.com (CTG2W49E4L)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: developers.mobileapp@sgintl.com (CTG2W49E4L)";
+				CODE_SIGN_IDENTITY = "iPhone Developer: mobileadmin@sgintl.com (7DZ7KLJ7L3)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: mobileadmin@sgintl.com (7DZ7KLJ7L3)";
 				DEVELOPMENT_TEAM = SSW2MT896X;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
@@ -412,7 +412,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.demo.audi;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "8968a2cc-b684-41ba-8a08-106edd7ec729";
+				PROVISIONING_PROFILE = "";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_OBJC_BRIDGING_HEADER = "Bridging-Header.h";
 				SWIFT_VERSION = 3.0;
