@@ -317,6 +317,7 @@
 					"$(PROJECT_DIR)",
 				);
 				INFOPLIST_FILE = TimeTable/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.safeguard.push;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -339,6 +340,7 @@
 					"$(PROJECT_DIR)",
 				);
 				INFOPLIST_FILE = TimeTable/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.safeguard.push;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -359,7 +361,7 @@
 				D1B623B51BC459AA006E4B0E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Debug;
 		};
 		D1B623B61BC459AA006E4B0E /* Build configuration list for PBXNativeTarget "TimeTable" */ = {
 			isa = XCConfigurationList;
@@ -368,7 +370,7 @@
 				D1B623B81BC459AA006E4B0E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Debug;
 		};
 /* End XCConfigurationList section */
 	};
