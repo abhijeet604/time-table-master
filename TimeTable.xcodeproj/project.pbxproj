@@ -308,8 +308,8 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_IDENTITY = "iPhone Distribution: Safe-Guard Products International LLC (SSW2MT896X)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Safe-Guard Products International LLC (SSW2MT896X)";
+				CODE_SIGN_IDENTITY = "iPhone Developer: developers.mobileapp@sgintl.com (CTG2W49E4L)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: developers.mobileapp@sgintl.com (CTG2W49E4L)";
 				DEVELOPMENT_TEAM = "";
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
@@ -320,8 +320,8 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.safeguard.sc;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "3aa51eab-15fd-4f66-833e-dea3d07d96fa";
-				PROVISIONING_PROFILE_SPECIFIER = "ad hoc all brands";
+				PROVISIONING_PROFILE = "701d28e6-b409-440e-b5d5-fe1d190e4373";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_OBJC_BRIDGING_HEADER = "Bridging-Header.h";
 				SWIFT_VERSION = 3.0;
 			};
@@ -331,8 +331,8 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_IDENTITY = "iPhone Distribution: Safe-Guard Products International LLC (SSW2MT896X)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Safe-Guard Products International LLC (SSW2MT896X)";
+				CODE_SIGN_IDENTITY = "iPhone Developer: developers.mobileapp@sgintl.com (CTG2W49E4L)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: developers.mobileapp@sgintl.com (CTG2W49E4L)";
 				DEVELOPMENT_TEAM = "";
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
@@ -343,8 +343,8 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.safeguard.sc;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "3aa51eab-15fd-4f66-833e-dea3d07d96fa";
-				PROVISIONING_PROFILE_SPECIFIER = "ad hoc all brands";
+				PROVISIONING_PROFILE = "701d28e6-b409-440e-b5d5-fe1d190e4373";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_OBJC_BRIDGING_HEADER = "Bridging-Header.h";
 				SWIFT_VERSION = 3.0;
 			};
