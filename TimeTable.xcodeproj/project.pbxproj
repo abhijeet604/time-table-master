@@ -319,7 +319,7 @@
 				INFOPLIST_FILE = TimeTable/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.safeguard.inspection;
+				PRODUCT_BUNDLE_IDENTIFIER = com.safeguard.sc;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "3aa51eab-15fd-4f66-833e-dea3d07d96fa";
 				PROVISIONING_PROFILE_SPECIFIER = "";
@@ -342,7 +342,7 @@
 				INFOPLIST_FILE = TimeTable/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.safeguard.inspection;
+				PRODUCT_BUNDLE_IDENTIFIER = com.safeguard.sc;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "3aa51eab-15fd-4f66-833e-dea3d07d96fa";
 				PROVISIONING_PROFILE_SPECIFIER = "";
